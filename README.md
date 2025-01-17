@@ -18,18 +18,18 @@ I'm Haris Madhavan, a passionate **iOS Developer** dedicated to crafting seamles
   </a>
 </p>
 
-## 🛠️ Skills & Tools2
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![XCode](https://img.shields.io/badge/XCode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-
-
 ## 🚀 About Me
 
 - 🌱 Currently exploring advanced iOS development techniques.
 - 💡 Enthusiastic about problem-solving, UI/UX, and building scalable mobile applications.
 - 💬 I’m open to collaborating on exciting iOS projects and innovative ideas.
 - 📖 Always learning and improving!
+
+## 🛠️ Skills & Tools2
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![XCode](https://img.shields.io/badge/XCode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
